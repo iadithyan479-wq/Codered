@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Minimalist Soft Card Surface -->
+    <path
+        android:pathData="M32,32 h44 a8,8 0 0 1 8,8 v28 a8,8 0 0 1 -8,8 h-44 a8,8 0 0 1 -8,-8 v-28 a8,8 0 0 1 8,-8 Z"
+        android:fillColor="#262521"
+        android:strokeColor="#3D3A34"
+        android:strokeWidth="1.2" />
+
+    <!-- Left Minimal Bracket < -->
+    <path
+        android:pathData="M44,48 L37,54 L44,60"
+        android:strokeWidth="2.8"
+        android:strokeColor="#D97757"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Right Minimal Bracket > -->
+    <path
+        android:pathData="M64,48 L71,54 L64,60"
+        android:strokeWidth="2.8"
+        android:strokeColor="#D97757"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Claude Signature Star / Sparkle at center ✦ -->
+    <path
+        android:pathData="M54,46 C54,50 51,54 47,54 C51,54 54,58 54,62 C54,58 57,54 61,54 C57,54 54,50 54,46 Z"
+        android:fillColor="#D97757" />
+
+</vector>

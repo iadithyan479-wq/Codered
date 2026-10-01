@@ -1,0 +1,6 @@
+{
+  "name": "CodeForge",
+  "description": "Real-time collaborative cloud IDE, git version control, interactive shell terminal, CI/CD pipelines, multi-region deployments, bug tracker & enterprise analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
